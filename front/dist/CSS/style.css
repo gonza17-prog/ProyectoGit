@@ -222,12 +222,3 @@ footer {
     gap: 20px;
     padding: 48px;
 }
-.pilares {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    border-bottom: 4px solid #000;
-}
-
-.pilar {
-    border-right: 4px solid #000;
-}
